@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "nama": "RTX 5090",
+    "manufaktur": "NVIDIA",
+    "msrp": "Rp 32.000.000",
+    "vram": "24GB GDDR7",
+    "recommend_psu": "1000W",
+    "gambar": "https://freeimage.host/i/3DUJAoN"
+  },
+  {
+    "id": "2",
+    "nama": "RTX 5080",
+    "manufaktur": "NVIDIA",
+    "msrp": "Rp 16.000.000",
+    "vram": "20GB GDDR7",
+    "recommend_psu": "850W",
+    "gambar": "https://freeimage.host/i/3DUJxHJ"
+  },
+  {
+    "id": "3",
+    "nama": "RTX 5070 Ti",
+    "manufaktur": "NVIDIA",
+    "msrp": "Rp12.000.000",
+    "vram": "16GB GDDR7",
+    "recommend_psu": "750W",
+    "gambar": "https://freeimage.host/i/3DUJRVI"
+  },
+  {
+    "id": "4",
+    "nama": "RTX 5070",
+    "manufaktur": "NVIDIA",
+    "msrp": "Rp8.800.000",
+    "vram": "12GB GDDR7",
+    "recommend_psu": "650W",
+    "gambar": "https://freeimage.host/i/3DUJCcg"
+  },
+  {
+    "id": "5",
+    "nama": "RTX 5060 Ti 8GB",
+    "manufaktur": "NVIDIA",
+    "msrp": "Rp5.000.000",
+    "vram": "8GB GDDR7",
+    "recommend_psu": "550W",
+    "gambar": "https://freeimage.host/i/3DUJnSa"
+  },
+  {
+    "id": "6",
+    "nama": "RX 7900 XTX",
+    "manufaktur": "AMD Radeon",
+    "msrp": "Rp16.000.000",
+    "vram": "24GB GDDR6",
+    "recommend_psu": "850W",
+    "gambar": "https://freeimage.host/i/3DUJGDl"
+  },
+  {
+    "id": "7",
+    "nama": "RX 7900 XT",
+    "manufaktur": "AMD Radeon",
+    "msrp": "Rp14.000.000",
+    "vram": "16GB GDDR6",
+    "recommend_psu": "800W",
+    "gambar": "https://freeimage.host/i/3DUJEN4"
+  },
+  {
+    "id": "8",
+    "nama": "RX 7900 GRE",
+    "manufaktur": "AMD Radeon",
+    "msrp": "Rp9.000.000",
+    "vram": "16GB GDDR6",
+    "recommend_psu": "700W",
+    "gambar": "https://freeimage.host/i/3DUJ0HG"
+  },
+  {
+    "id": "9",
+    "nama": "RX 7800 XT",
+    "manufaktur": "AMD Radeon",
+    "msrp": "Rp8.000.000",
+    "vram": "16GB GDDR6",
+    "recommend_psu": "700W",
+    "gambar": "https://freeimage.host/i/3DUJYKX"
+  },
+  {
+    "id": "10",
+    "nama": "RX 7700 XT",
+    "manufaktur": "AMD Radeon",
+    "msrp": "Rp7.000.000",
+    "vram": "12GB GDDR6",
+    "recommend_psu": "650W",
+    "gambar": "https://freeimage.host/i/3DUJTtp"
+  }
+]
